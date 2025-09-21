@@ -1,0 +1,23 @@
+﻿# Python
+__pycache__/
+*.py[cod]
+*.class
+
+env/
+venv/
+ENV/
+VENV/
+
+*.log
+*.tmp
+*.bak
+
+# VSCode
+.vscode/
+
+# OS/System files
+.DS_Store
+Thumbs.db
+Desktop.ini
+*.swp
+*.swo
