@@ -1,57 +1,21 @@
-﻿# ========================
-# Python
-# ========================
-
+﻿# Python bytecode / cache
 __pycache__/
 *.py[cod]
 *.class
 
+# Virtual environments
 env/
 venv/
-ENV/
-VENV/
 
+# Logs and temporary files
 *.log
 *.tmp
 *.bak
 
-# ========================
-# VSCode
-# ========================
+# VSCode settings
 .vscode/
 
-# ========================
 # OS/System files
-# ========================
 .DS_Store
 Thumbs.db
 Desktop.ini
-*.swp
-*.swo
-
-# ========================
-# User-specific / Personal
-# ========================
-*.sublime-workspace
-*.sublime-project
-*.user
-*.userosscache
-*.suo
-*.ntvs*
-*.njsproj
-*.sln
-
-# ========================
-# Ignore other personal folders outside project
-# ========================
-3D Objects/
-AppData/
-Contacts/
-Downloads/
-Favorites/
-Links/
-Music/
-OneDrive/
-Saved Games/
-Searches/
-Videos/
